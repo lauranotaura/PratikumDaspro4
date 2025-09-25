@@ -1,1 +1,2 @@
 hello world, ini file random saja
+hi hii
